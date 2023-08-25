@@ -1,0 +1,11 @@
+2023-08-25 16:21:34,932.circle_calc.INFO ==================================================
+2023-08-25 16:21:34,933.circle_calc.INFO Today is 2023-08-25 at 04:21 PM
+2023-08-25 16:21:34,964.circle_calc.INFO Running on: nt Windows 10
+2023-08-25 16:21:34,964.circle_calc.INFO Python version:  3.11.4
+2023-08-25 16:21:34,965.circle_calc.INFO Python path: C:\Users\Admin\AppData\Local\Programs\Python\Python311
+2023-08-25 16:21:34,965.circle_calc.INFO Working dir: C:\Users\Admin\Documents\MS DATA Analytics\440608\Week 1\Project1\RepoClone\datafun-01-getting-started
+2023-08-25 16:21:34,965.circle_calc.INFO ==================================================
+2023-08-25 16:22:05,218.circle_calc.INFO The area of a circle with radius 15.0 is 706.8583470577034.
+2023-08-25 16:22:05,218.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-25 16:22:05,218.circle_calc.INFO The area of a circle with radius 15.0 is 706.86.
+2023-08-25 16:22:05,218.circle_calc.INFO Much better! (After you fix it.)

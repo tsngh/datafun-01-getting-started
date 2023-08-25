@@ -1,0 +1,14 @@
+2023-08-25 16:18:37,104.basic_functions.INFO ==================================================
+2023-08-25 16:18:37,104.basic_functions.INFO Today is 2023-08-25 at 04:18 PM
+2023-08-25 16:18:37,141.basic_functions.INFO Running on: nt Windows 10
+2023-08-25 16:18:37,142.basic_functions.INFO Python version:  3.11.4
+2023-08-25 16:18:37,142.basic_functions.INFO Python path: C:\Users\Admin\AppData\Local\Programs\Python\Python311
+2023-08-25 16:18:37,142.basic_functions.INFO Working dir: C:\Users\Admin\Documents\MS DATA Analytics\440608\Week 1\Project1\RepoClone\datafun-01-getting-started
+2023-08-25 16:18:37,143.basic_functions.INFO ==================================================
+2023-08-25 16:18:37,153.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-25 16:18:37,153.basic_functions.INFO number_list = [1, 2, 3, 4, 5]
+2023-08-25 16:18:37,153.basic_functions.INFO len(number_list) = 5
+2023-08-25 16:18:37,153.basic_functions.INFO min(number_list) = 1
+2023-08-25 16:18:37,153.basic_functions.INFO max(number_list) = 5
+2023-08-25 16:18:40,444.basic_functions.INFO message = Hello Tesheena!
+2023-08-25 16:18:42,383.basic_functions.INFO response = other
